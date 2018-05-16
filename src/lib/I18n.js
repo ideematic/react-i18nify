@@ -3,7 +3,6 @@
 
 import IntlPolyfill from 'intl';
 import moment from 'moment';
-import 'moment/min/locales';
 import BaseComponent from './Base';
 
 export default {
